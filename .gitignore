@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+out/
+target/
+
+# Log
+logs/
+*.log
+npm-debug.log*
